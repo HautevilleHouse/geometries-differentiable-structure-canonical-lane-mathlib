@@ -1,0 +1,7 @@
+import GeodesicsDifferentiableStructure.AdmissibleClass
+
+namespace HautevilleHouse
+namespace GeometriesDifferentiableStructureCanonicalLaneLean
+
+end GeometriesDifferentiableStructureCanonicalLaneLean
+end HautevilleHouse
